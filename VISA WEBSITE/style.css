@@ -1,0 +1,75 @@
+body{
+    background-color: yellow;
+}
+
+#PIC1{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 40%;
+    border-radius: 150px;
+    cursor: pointer;
+    
+}
+
+#Devotional{
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    width: 400px;
+    cursor: pointer;
+
+}
+
+#Sermon{
+    position: absolute;
+    left: 35%;
+    top: 55%;
+    width: 400px;
+    cursor: pointer;
+
+}
+
+#Groups{
+    position: absolute;
+    left: 35%;
+    top: 60%;
+    width: 400px;
+    cursor: pointer;
+
+}
+
+#PIC2{
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    left: 40%;
+    border-radius: 150px;
+    top: 70%;
+
+}
+
+#books{
+    color: brown;
+    top: 115%;
+    left: 45%;
+    position: absolute;
+    cursor: pointer;
+}
+
+#capsules{
+    position: absolute;
+    top: 125%;
+    left: 50%;
+}
+
+#page2{
+    background-image:url("Pics/Bishop Tackie Yaboi.jpeg") ;
+    background-size: cover;
+
+
+}
+#Changecolor{
+    cursor: pointer;
+
+}
